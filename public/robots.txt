@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rahul-sanjiv-dev.github.io/Website/sitemap.xml
